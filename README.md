@@ -1,5 +1,4 @@
-# Ex. No. 7 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+# Ex. No. 6.1 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -44,9 +43,11 @@
 ![Screenshot 2023-11-27 225104](https://github.com/JebaSolomonRajS/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139432449/a3fd3745-5edf-4ad2-9f76-0fed85aa9b24)
 
 ## Output:
+![image](https://github.com/user-attachments/assets/eff2fefc-57e9-4e0f-9081-40748c46ed6a)
+
 
 ### Name: Jeba Solomon Raj S
-### Register Number: 23001618
+### Register Number: 212223230089
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
